@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @buttonnosekidz
+- 👋 Hi, I’m JMel Dowdell owner/creater @buttonnosekidz
 - 👀 I’m interested in How to market and scale my NFT's
-- 🌱 I’m currently learning NPM, Truffle Suite, Ganche CLI, Meta Mask, Infura, Crypto exchanges, smart contracts, yield aggregators, Block Chains, NFT's etc...
+- 🌱 I’m currently learning coding, NPM, Truffle Suite, Ganche CLI, Meta Mask, Infura, Crypto exchanges, smart contracts, yield aggregators, Block Chains, NFT's etc...
 - 💞️ I’m looking to collaborate on NFT's
 - 📫 How to reach me Jdowdell0716@yahoo.com or direct message my IG @jdowdell0716
 
